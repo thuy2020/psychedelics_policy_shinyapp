@@ -1,0 +1,32 @@
+/* Custom row spacing */
+.custom-row {
+  margin-bottom: 30px;
+}
+
+/* Navbar background and border removal */
+.navbar-custom {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+/* Align logo to the left */
+.navbar-custom .navbar-left {
+  display: flex;
+  align-items: left;
+  
+  flex-grow: 1;
+}
+
+/* Align title to the right */
+.navbar-custom .navbar-title {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 15px;
+  flex-grow: 1;
+}
+
