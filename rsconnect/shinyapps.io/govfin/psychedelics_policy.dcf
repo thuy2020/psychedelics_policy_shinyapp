@@ -1,11 +1,11 @@
 name: psychedelics_policy
-title: psychedelics_policy
+title: psychedelics_policy_shinyapp
 username: govfin
 account: govfin
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12280340
-bundleId: 8830053
+bundleId: 8871922
 url: https://govfin.shinyapps.io/psychedelics_policy/
 version: 1
 asMultiple: FALSE

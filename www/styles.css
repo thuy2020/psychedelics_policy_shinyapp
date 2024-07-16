@@ -17,7 +17,6 @@
 .navbar-custom .navbar-left {
   display: flex;
   align-items: left;
-  
   flex-grow: 1;
 }
 
@@ -28,5 +27,12 @@
   justify-content: flex-end;
   font-size: 15px;
   flex-grow: 1;
+  
 }
 
+@media screen and (max-width: 768px) {
+  .sidebar, .mainpanel {
+    width: 100%;
+    padding: 5px;
+  }
+}

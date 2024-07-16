@@ -35,7 +35,7 @@ shinyUI(fluidPage(
     )
   ),
   
-  # Row for the second chart and its text
+  # Row for OR
   fluidRow(
     class = "custom-row",
     column(4, # 1/3 of the page for text
@@ -56,7 +56,7 @@ shinyUI(fluidPage(
     )
   ),
   
-  # Row for the second chart and its text
+  # Row for CO
   fluidRow(
     class = "custom-row",
     column(4, # 1/3 of the page for text
@@ -71,7 +71,7 @@ shinyUI(fluidPage(
     )
   ),
   
-  # Row for the second chart and its text
+  # Next section
   fluidRow(
     class = "custom-row",
     column(4, # 1/3 of the page for text
@@ -100,7 +100,7 @@ shinyUI(fluidPage(
     )
   ),
   
-  # Row for the second chart and its text
+  # Section
   fluidRow(
     class = "custom-row",
     column(4, # 1/3 of the page for text
